@@ -1,0 +1,54 @@
+body {
+    background-image: url("grey-wall.png");
+
+}
+
+.card {
+    transition: 0.3s;
+    margin: 30px;
+    margin-top: 0px;
+  }
+
+  .card-text-container {
+      background-image:url("plaque.png");
+      width: auto;
+      background-size: 100% 100%;
+
+        background-repeat:   no-repeat;
+    background-position: center center; 
+
+  }
+
+  .card-text {
+    text-align: center;
+    padding: 35px;
+}
+  
+  
+  .card-image-container {
+    background-image:url("Untitled.png");
+    width: auto;
+    background-size: 100% 100%;
+        background-repeat:   no-repeat;
+    background-position: center center; 
+  }
+
+  .card-image {
+    background-image:url("100.png");
+    background-repeat:   no-repeat;
+    background-position: center center; 
+  }
+
+  .image {
+    width: 69%;
+    height: auto;
+    margin: 65px;
+  }
+
+  .columns {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    
+
+  }
